@@ -1,0 +1,13 @@
+{
+  "name": "RequireJS Starter || pagepro.pl || Kuba Wiszniewski",
+  "version": "1.0.0",
+  "dependencies": {
+    "requirejs": "latest",
+    "jquery": "latest",
+    "backbone-amd": "latest",
+    "marionette": "latest",
+    "underscore-amd": "latest",
+    "bootstrap": "latest",
+    "text": "latest"
+  }
+}

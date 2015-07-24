@@ -1,0 +1,21 @@
+{
+    "globals": {
+        "require": true,
+        "define": true
+    },
+    "env": {
+        "browser": true,
+        "amd": true
+    },
+    "rules": {
+        "semi": 2,
+        "quotes": "single",
+        "amd": true,
+        "no-underscore-dangle": false,
+        "new-cap": false,
+        "curly": false,
+        "camelcase": [2, {
+            "properties": "never"
+        }]
+    }
+}
